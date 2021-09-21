@@ -1,0 +1,87 @@
+body{
+    background-color:#F8B195 ;
+    background-size:100% 100%;
+    color: #C06C84;
+}
+
+#container{ 
+
+    background-color:#8c99ab ;
+    width:360px;
+    height:600px;
+    align-items: center;
+    top:50%;
+    left:50%;
+    border-color:black ;
+    border:1px;
+    border-radius:10px;
+    margin:50px auto;
+    background-color:#8c99ab ;
+    padding:20px 20px 20px 50px;
+  
+
+}
+#respond{
+    background-color:#8c99ab ;
+    width:80%;
+    height:auto;
+    align-items: center;
+    top:50%;
+    left:50%;
+    border-color:black ;
+    border:1px;
+    border-radius:10px;
+    margin:100px auto;
+    background-color:#8c99ab ;
+    padding:40px 20px 40px 50px;
+  
+}
+#contai{
+    margin-top:50px;
+    text-align: center;
+
+
+}
+#submit-btn{
+    width:100px;
+    height:50px;
+    border:2px;
+    border-style: solid;
+    color:#F8B195;
+    cursor:pointer;
+    background-color:#6C5B7B ;
+    border-radius: 10px;
+}
+#submit-btn:hover{
+   background-color:#F67280;
+   width:120px;
+}
+
+#foot{
+    
+    left:0;
+    bottom:0;
+    width: 100%;
+    text-align:center;
+} 
+a{
+    text-align:left; 
+   color:#355c7d;
+   text-decoration: none;
+}
+#delete-btn{
+    width:100px;
+    height:50px;
+    border:2px;
+    border-style: solid;
+    color:#F8B195;
+    cursor:pointer;
+    background-color:#6C5B7B ;
+    border-radius: 10px;  
+}
+input{
+    color:#355c7d;;
+    border-style: none;
+    background-color:#a0aab9;
+   
+}
